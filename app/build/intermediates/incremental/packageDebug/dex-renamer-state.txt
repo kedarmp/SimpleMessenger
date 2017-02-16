@@ -1,0 +1,4 @@
+#Fri Feb 10 10:56:29 EST 2017
+base.0=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Feb 03 11:36:03 EST 2017
+2.base=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.set=DEX
+3.base=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+5.base=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.set=ANDROID_RESOURCE
+6.base=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+1.set=ANDROID_RESOURCE
+2.file=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/kedar/study/586/PA1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.set=ANDROID_RESOURCE
